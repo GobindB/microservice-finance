@@ -1,0 +1,11 @@
+{
+  "name": "microservice-finance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GobindB/microservice-finance.git",
+  "author": "Gobind <gobind@thesinghs.org>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
